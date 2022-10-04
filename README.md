@@ -47,3 +47,7 @@ https://us1.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 //LINK FOR BHOOMIKA'S ASSIGNMENT 2
 https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2Fibm_assign2_bhoomika&action=view&mode=dashboard&subView=model0000018378e27b8c_00000000
+
+
+//LINK FOR BHARATHI LEELA'S ASSIGNMENT 3
+https://colab.research.google.com/drive/1xXLJ-VvJOrHd3UDISeG0sA5sCexnJjnQ
