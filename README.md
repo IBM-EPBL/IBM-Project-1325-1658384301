@@ -51,3 +51,6 @@ https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2
 
 //LINK FOR BHARATHI LEELA'S ASSIGNMENT 3
 https://colab.research.google.com/drive/1xXLJ-VvJOrHd3UDISeG0sA5sCexnJjnQ
+
+//LINK FOR CUSTOMER-JOURNEY MAP
+https://app.mural.co/invitation/mural/mepcoschlenkengineeringcolle5470/1665216770633?sender=ucb1a3dca2232a55c9de68635&key=40902b9e-5190-4dfc-9563-8e73fb45efe8
